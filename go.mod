@@ -1,3 +1,3 @@
-module github.com/biljana-stanoevska-quipu/go
+module github.com/biljana-stanoevska-quipu/learngo
 
 go 1.18
